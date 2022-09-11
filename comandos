@@ -5,6 +5,9 @@ git status === muestra la informacion de los cambios realizados
 git commit -m "Mensaje para describir el cambio que se hizo" 
 guarda cambios realizados
 
+git push origin master === enviar el archivo de la compu a github
+
+
 
 
 
