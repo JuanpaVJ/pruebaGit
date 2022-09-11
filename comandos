@@ -1,3 +1,14 @@
 git init === iniciar un repositorio, todo lo que se realice se guardara y mostrara informacion. Desde este comando, Git podra administrar lso cambios realizados en lso archivos.
 
 git status === muestra la informacion de los cambios realizados
+
+git commit -m "Mensaje para describir el cambio que se hizo" 
+guarda cambios realizados
+
+
+
+
+
+
+
+
